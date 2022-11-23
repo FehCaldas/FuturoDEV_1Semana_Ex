@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FuturoDEV</title><br>
+</head>
+
+<body>
+    <H1> Home</H1><br>
+    <hr>
+    <h2> semana 1</h2>
+
+    <p> Este é o resultado do primeiro exercício da primeira semana do curso FuturoDEV. Nesta semana aprendi os
+        Fundamentos da Programação WEB: Arquitetura WEB.<br></p>
+    <ul>
+        <li> HTML5</li>
+        <li> CSS3</li>
+        <li> Bootstrap 4</li>
+    </ul><br>
+
+    <p> Por favor insira seus dados pessoais e envie-nos atraves do formulrio abaixo:</p>
+
+    <form>
+        <fieldset>
+            <Legend> Formulario </Legend>
+            <input type="text" placeholder="Digite seu e-mail" /><br>
+            <input type="text" placeholder="Digite seu Nome" /><br><br>
+            <textarea cols="30" placeholder="Deixe aqui sua menssagem" rows="10"></textarea>
+            <input type="submit" value="enviar"/>
+        </fieldset>
+    </form>
+</body>
+
+</html>
