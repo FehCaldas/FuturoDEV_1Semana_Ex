@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FututoDEV</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+
+        <img src="logo.png.png" alt="logo do site" width="70" height="70">
+
+        <section>
+
+            <nav>
+
+                <ul>
+
+                    <li>
+
+                        <a href="index.html">
+
+                            Home
+
+                        </a>
+
+                    </li>
+
+                    <li>
+
+                        <a href="multimidia.html">
+
+                            Multimidia
+
+                        </a>
+
+                    </li>
+
+                </ul>
+
+            </nav>
+
+
+        </section>
+
+    </header>
+
+    <main>
+        <section>
+            <article>
+
+                <H1>Imagens e Videos</H1><br>
+                <h2> Imagens </h2><br>
+                <p> As imagens seguintes representam como entendo ser o mundo da programação e meu futuro como uma
+                    pessoa
+                    desenvolvedora de software</p><br>
+
+                <img src="program01.png.png" alt="alusao a programar, trabalho" width="500" />
+
+                <img src="https://www.flaticon.com/br/icone-gratis/programador_1488581" alt="icone programador" width="500"/>
+
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <ul>
+            <li>
+                <a href="https://www.linkedin.com/in/felipe-caldas-197782252/">
+                    <img src="logo-linkedin.png" width="50" height="50">
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/FehCaldas">
+                    <img src="logo-github.png.png" width="50" height="50">
+                </a>
+            </li>
+        </ul>
+
+    </footer>
+
+</body>
+
+</html>
