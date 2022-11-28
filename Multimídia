@@ -60,12 +60,25 @@
                     pessoa
                     desenvolvedora de software</p><br>
 
-                <img src="program01.png.png" alt="alusao a programar, trabalho" width="500" />
 
-                <img src="https://www.flaticon.com/br/icone-gratis/programador_1488581" alt="icone programador" width="500"/>
+                <img src="program01.png.png" alt="alusao a programar, trabalho" width="500" /><br>
+                <img src="../../../imagem2/img-program2.png.png" width="500" /> <br>
+                <img src="https://i.pinimg.com/originals/fa/d1/e6/fad1e6df9cd9472447a196c2af097553.jpg"
+                    alt=" imagem programando" height="250" width="400" /><br>
+
+                <h3> Videos </h3> <br>
+                <p> Veja o vídeo seguinte para entender um pouco da carreira de desenvolvedor de software</p><br>
+
+                <ol>
+                    <li><a href="https://www.youtube.com/watch?v=J82mC4CKT40"> Sevana, Brand New </a><br></li>
+                    <li><a href="https://www.youtube.com/watch?v=QK7JQl9jNzM"> Sober, Mahalia </a><br></li>
+                </ol>
+
+
 
             </article>
         </section>
+
     </main>
 
     <footer>
